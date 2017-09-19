@@ -1,0 +1,55 @@
+/* resumestyle.css */
+body {
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+.navbar { 
+	height: 50px;
+	background: #262E3A;
+	width: 100%;
+	margin: 0px;
+}
+.navbar a {
+	float: left;
+	display: block;
+	padding: 15px 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: white;
+}
+.navbar a:hover {
+	background-color: #919EC4;
+	color: white;
+}
+
+h1 {
+	color: #1E1C1B;
+	text-align: center;
+	font-size:26px;
+	font-style: italic;
+	font-family: 'Open Sans', sans-serif;
+}
+h2 {
+	margin-left: 200px;
+	margin-right: 200px;
+	color: #1E1C1B;
+	text-align: left;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+}
+h3 {
+	margin-left: 200px;
+	margin-right: 200px;
+	color: #1E1C1B;
+	text-align: left;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+p, li {
+	margin-left: 200px;
+	margin-right: 200px;
+	color: #1E1C1B;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+}
+
