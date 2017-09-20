@@ -29,6 +29,17 @@ h1 {
 	font-size:26px;
 	font-style: italic;
 }
+.button {
+	background-color: #85CEFF;
+	color: blue;
+	margin-right: 45%;
+	margin-left: 45%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 3px 3px;
+	border-radius: 3px;
+	text-align: center;
+}
 a:hover {
 	color: black;
 }
