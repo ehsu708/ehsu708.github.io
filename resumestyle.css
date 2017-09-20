@@ -22,7 +22,12 @@ body {
 	background-color: #919EC4;
 	color: white;
 }
-
+.headers {
+	margin-left: 200px;
+	margin-right: 200px;
+	color: #1E1C1B;
+	text-align: left;
+}
 h1 {
 	color: #1E1C1B;
 	text-align: center;
@@ -30,17 +35,9 @@ h1 {
 	font-style: italic;
 }
 h2 {
-	margin-left: 200px;
-	margin-right: 200px;
-	color: #1E1C1B;
-	text-align: left;
 	font-size: 18px;
 }
 h3 {
-	margin-left: 200px;
-	margin-right: 200px;
-	color: #1E1C1B;
-	text-align: left;
 	font-size: 16px;
 }
 p, li {
